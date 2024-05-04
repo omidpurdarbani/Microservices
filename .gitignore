@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Src/bin/Debug
+/Src/obj
+/Src/Services/Basket/Basket.Api/bin/Debug/net8.0
+/Src/Services/Basket/Basket.Api/obj
+/Src/Services/Catalog/Catalog.Api/bin/Debug/net8.0
+/Src/Services/Catalog/Catalog.Api/obj/Debug/net8.0
+/Src/.vs/Microservices
